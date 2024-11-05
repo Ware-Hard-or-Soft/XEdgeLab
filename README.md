@@ -1,5 +1,5 @@
 
-# XEdgeLab: Real-Time Lab Environment Monitoring on Microcontrollers
+# XEdgeLab: Real-Time Lab Environment Monitoring with On-Device ML on Microcontrollers
 
 **XEdgeLab** is a project designed to monitor environmental parameters (oxygen, temperature, humidity, and pressure) in a lab setting using an ESP32 microcontroller with the BME280 and Grove Oxygen Sensor. The system uses an XGBoost model with engineered lagged features to predict future values and detect anomalies. This model is converted to TensorFlow Lite for efficient on-device inference.
 
