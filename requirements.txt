@@ -8,4 +8,4 @@ pandas
 numpy
 scikit-learn
 prettytable
-adafruit-circuitpython-bme280  # For BME280 sensor on microcontroller
+adafruit-circuitpython-bme280 
