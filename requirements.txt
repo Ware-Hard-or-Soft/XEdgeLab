@@ -1,0 +1,11 @@
+xgboost
+onnxmltools
+onnx
+onnx-tf
+tensorflow
+onnxruntime
+pandas
+numpy
+scikit-learn
+prettytable
+adafruit-circuitpython-bme280  # For BME280 sensor on microcontroller
