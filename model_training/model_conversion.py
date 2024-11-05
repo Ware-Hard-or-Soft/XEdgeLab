@@ -11,5 +11,5 @@ converter = tf.lite.TFLiteConverter.from_saved_model("tf_model")
 converter.optimizations = [tf.lite.Optimize.DEFAULT]
 tflite_model = converter.convert()
 
-with open("model_training/oxygen_model.tflite", "wb") as f:
+with open("model_training/XEdgeLab_tflite_model.tflite", "wb") as f:
     f.write(tflite_model)
