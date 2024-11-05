@@ -12,7 +12,7 @@
 
 ## Hardware Requirements
 
-- **ESP32 Microcontroller**
+- **ESP32 Microcontroller and platform**
 - **BME280 Sensor**: Measures temperature, humidity, and pressure.
 - **Grove Oxygen Sensor (ME2-O2)**: Measures oxygen concentration in the air.
 - **Jumper Wires** and **Breadboard** for connections.
